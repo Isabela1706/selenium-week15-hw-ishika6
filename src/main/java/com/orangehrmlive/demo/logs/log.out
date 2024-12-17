@@ -1,0 +1,4 @@
+2024-12-16 08:12:747 INFO  LoginPage :41 - Enter User Name: Admin
+2024-12-16 08:12:822 INFO  LoginPage :51 - Enter Password: admin123
+2024-12-16 08:12:24 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (5327184d758aa4a7462f4d0f25c3f3de)] -> xpath: //button[normalize-space()='Login']]
+2024-12-16 08:12:519 INFO  DashboardPage :41 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (5327184d758aa4a7462f4d0f25c3f3de)] -> xpath: //img[@alt='client brand banner']]
